@@ -1,0 +1,6 @@
+{
+  "name": "سيكولوجية التداول: الموسوعة التفاعلية الشاملة",
+  "description": "كتاب ويب تفاعلي شامل وموسع (63 فصلاً في 7 أجزاء) حول سيكولوجية التداول، إدارة الحالة (State Management)، ديناميكية الانتقائية الحسابية، فك شفرة الـ Zone، وقانون Yerkes-Dodson.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
